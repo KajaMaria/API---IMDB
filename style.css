@@ -1,0 +1,19 @@
+p {
+  front-weight: bold;
+  color: teal;
+}
+
+h1 {
+  color: red;
+  font-size: 26;
+}
+
+#img{
+  width: 45%;
+  float: left;
+}
+
+#content{
+  width: 45%;
+  float: left;
+}
